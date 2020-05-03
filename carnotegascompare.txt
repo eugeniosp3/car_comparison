@@ -1,6 +1,7 @@
 
 # Gas Price Differences Comparison
 # notes to improve - can I combine a and b so user does not have to enter everything twice?
+
 def compare_cars():
     def car_inputs():
         a_car_title = str(input("Enter Make and Model of First Car: "))
